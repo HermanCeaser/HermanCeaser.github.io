@@ -1,0 +1,13 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"Javascript" : "95",
+		"React" : "85",
+		"Node" : "80",
+		"Express" : "72",
+		"Html" : "99",
+		"css" : "80",
+		"Mysql": "70",
+		"Mongodb" : "65"
+	}
+}

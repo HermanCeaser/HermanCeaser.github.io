@@ -1,0 +1,29 @@
+{
+	"title" : "Projects",
+	"experience" : [
+		{
+			"timeperiod" : "Feb 2020",
+			"company" : "Color App Organizer",
+			"website": "https://color-organizer.herokuapp.com/",
+			"description" : "A Simple Color Organizer App created with ReactJs, and CSS. It allows a user to organize their colors onto a color pad"
+		},
+		{
+			"timeperiod" : "Mar 2020",
+			"company" : "Notedly API",
+			"website": "https://notedly-api.herokuapp.com/api/",
+			"description" : "A Backend API for a Note Web Application. It provides User Authentication through Web tokens and it allows users to create, View, Edit, favorite and Delete Notes"
+		},
+		{
+			"timeperiod" : "Jun 2020",
+			"company" : "Susis Library",
+			"website": "https://github.com/HermanCeaser/Susis-Library/",
+			"description" : "A full blown web Application Library built with Mongo, Node.js, passport authentication, Goodreads Third-party Api and bootstrap css. "
+		},
+		{
+			"timeperiod" : "Jul 2020",
+			"company" : "Notedly Web App",
+			"website": "https://loving-jang-2f4e72.netlify.app/",
+			"description" : "A Front End to the Notedly API Backend. It Consumes the Notedly API."
+		}
+	]
+}
